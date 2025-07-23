@@ -1,0 +1,9 @@
+numpy
+opencv-python
+keras
+tensorflow
+matplotlib
+scikit-learn
+seaborn
+imgaug
+sporco
