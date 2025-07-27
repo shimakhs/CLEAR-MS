@@ -98,13 +98,10 @@ results.csv
 
 ---
 
-##  Notes
+### Citation
+If you use this code for your research, please cite the related paper:
 
-- The pipeline includes optional augmentation hooks (not active in the current script).
-- Evaluation is done using Stratified K-Fold cross-validation for robustness.
-- This code is modular and can be easily extended to other retinal OCT datasets or other disease classification tasks.
-
----
+CLEAR-MS: Comprehensive Evaluation of Artificial Intelligence Models for Diagnosis of Multiple Sclerosis Using Information from Retinal Layers Multicenter OCT Images
 
 ##  Contact
 
