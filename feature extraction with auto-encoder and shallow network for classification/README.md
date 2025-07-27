@@ -108,10 +108,7 @@ results.csv
 
 ##  Contact
 
-For questions or collaboration opportunities, please reach out via [GitHub Issues](https://github.com/your_username/your_repo/issues) or email.
-
+For questions, feel free to contact shimakhodabandeh@gmail.com
 ---
 
-##  License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
