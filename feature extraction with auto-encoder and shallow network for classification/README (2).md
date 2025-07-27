@@ -5,7 +5,7 @@ This repository contains a Python implementation of an AI-based pipeline for cla
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 - **Goal**: Automatically distinguish MS patients from healthy individuals based on retinal OCT boundary maps.
 - **Approach**:
@@ -16,7 +16,7 @@ This repository contains a Python implementation of an AI-based pipeline for cla
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset includes:
 - OCT boundary predictions from two datasets
@@ -27,7 +27,7 @@ The dataset includes:
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 Install the required libraries using:
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Running the Code
+##  Running the Code
 
 Train the autoencoder and classifier by running:
 
@@ -55,7 +55,7 @@ python ms_oct_autoencoder.py
 
 ---
 
-## 🧪 Evaluation Metrics
+##  Evaluation Metrics
 
 During training and evaluation, the following metrics are computed and logged:
 
@@ -76,7 +76,7 @@ results.csv
 
 ---
 
-## 📊 Visualization
+##  Visualization
 
 - Confusion matrices are plotted per fold
 - Training loss and accuracy curves are saved
@@ -84,7 +84,7 @@ results.csv
 
 ---
 
-## 🧬 Model Architecture
+##  Model Architecture
 
 ### Autoencoder
 
@@ -98,7 +98,7 @@ results.csv
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - The pipeline includes optional augmentation hooks (not active in the current script).
 - Evaluation is done using Stratified K-Fold cross-validation for robustness.
@@ -106,12 +106,12 @@ results.csv
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions or collaboration opportunities, please reach out via [GitHub Issues](https://github.com/your_username/your_repo/issues) or email.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
